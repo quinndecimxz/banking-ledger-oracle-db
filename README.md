@@ -59,6 +59,15 @@ All critical business rules are enforced at the database level rather than relyi
 This project was developed as part of a **Database Systems** course to demonstrate practical application of relational modeling, normalization, and database-level enforcement of business rules.
 
 ---
+## Contributors
+
+This project was developed collaboratively by:
+
+- Zain Ali
+- Ahad Latif
+
+Contributions were shared across database design, implementation, and documentation.
+---
 
 ## Disclaimer
 
