@@ -61,6 +61,27 @@ This project was developed as part of a **Database Systems** course to demonstra
 
 ---
 
+## GitHub Topics
+
+This repository is tagged with the following topics for better discoverability:
+
+- `database`
+- `dbms`
+- `oracle-sql`
+- `banking-system`
+- `ledger`
+- `plsql`
+- `normalization`
+- `academic-project`
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Disclaimer
 
 This project is intended for educational purposes only and does not represent a production-ready banking system.
