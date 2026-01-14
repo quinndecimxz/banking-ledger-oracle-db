@@ -51,7 +51,6 @@ All critical business rules are enforced at the database level rather than relyi
 - `procedures/` – business logic and transactional operations
 - `triggers/` – integrity and authorization enforcement
 - `views/` – reporting and abstraction layers
-- `docs/` – project report and documentation
 
 ---
 
